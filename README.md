@@ -1,5 +1,4 @@
 # hello-world
-Hello World example
 
 Try Git: Code School
 https://try.github.io/
