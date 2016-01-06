@@ -1,5 +1,6 @@
 # hello-world
 
-Try Git: Code School
-https://try.github.io/
-1.1 Got 15 minutes and want to learn Git? Git allows ... Repository: A directory where Git has been initialized to start version controlling your files. Clicky Click: ...
+Git Tutorials and Training | Atlassian Git Tutorial
+https://www.atlassian.com/git/tutorials/
+Learn the basics of Git through this comprehensive Git training. Branching, pull requests, merging and more are covered in the Atlassian Git tutorial.
+‎Setting up a repository - ‎Setting up a repository - git-init - ‎Syncing - ‎Branches
